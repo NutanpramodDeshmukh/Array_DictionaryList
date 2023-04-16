@@ -1,0 +1,8 @@
+C:\Users\Uday\OneDrive\Desktop\Remap\4A_Nlog_Dic\DicCRUD\bin\Debug\DicCRUD.exe.config
+C:\Users\Uday\OneDrive\Desktop\Remap\4A_Nlog_Dic\DicCRUD\bin\Debug\DicCRUD.exe
+C:\Users\Uday\OneDrive\Desktop\Remap\4A_Nlog_Dic\DicCRUD\bin\Debug\DicCRUD.pdb
+C:\Users\Uday\OneDrive\Desktop\Remap\4A_Nlog_Dic\DicCRUD\obj\Debug\DicCRUD.csproj.AssemblyReference.cache
+C:\Users\Uday\OneDrive\Desktop\Remap\4A_Nlog_Dic\DicCRUD\obj\Debug\DicCRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\OneDrive\Desktop\Remap\4A_Nlog_Dic\DicCRUD\obj\Debug\DicCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Uday\OneDrive\Desktop\Remap\4A_Nlog_Dic\DicCRUD\obj\Debug\DicCRUD.exe
+C:\Users\Uday\OneDrive\Desktop\Remap\4A_Nlog_Dic\DicCRUD\obj\Debug\DicCRUD.pdb
